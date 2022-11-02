@@ -1,0 +1,125 @@
+.App {
+  text-align: center;
+  background-image:url(./bk.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0%;
+}
+
+.ayman{
+  width: 220px;
+  height: 220px;
+}
+.manal{
+  width: 340px;
+  height: 220px;
+  
+}
+.btnflex{
+  display: flex;
+ width: 200px;
+ height:  60px;
+  gap: 20px;
+  right: 30%;
+  margin-top: 30px;
+
+
+
+}
+.btnsucc{
+  color: #1c8044;
+  font-size: 30px;
+  background-color: #e3f6f5;
+  border-radius: 10px;
+}
+.ic{
+  width: 20px;
+  height: 20px;
+}
+.icones{
+  display: flex;
+  justify-content:right;
+  gap: 25px;
+  margin-right: 90px;
+ 
+
+}
+.expense_liste{
+  display: flex;
+  gap: 9px;
+  left: 30%;
+
+}
+
+.content{
+  position: relative;
+  left: 20%;
+}
+
+.global{
+  display:flex;
+  right: 9%;
+  
+  
+}
+
+
+.btndan{
+  color:#ff0000;
+  border-radius: 10px;
+  font-size: 25px;
+  background-color: #e3f6f5;
+  margin-left: 80%;
+
+}
+.balance{
+  text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.644);
+  height: 22x;
+  font-size: 35px ;
+  font-weight: bolder;
+  background-color:#0c005a;
+color: #ececec;
+text-align: center;
+
+}
+.titreexpense{
+  color:#090f55;
+}
+
+.form_name{
+  border-radius: 5px;
+  border-color: #53a8b6;
+ background-color:#e3f6f5;
+ 
+  height: 25px;
+  width: 200px;
+  margin-bottom: 10px;
+  height: 35px;
+  width: 250px;
+}
+.form_amount{
+  border-radius: 5px;
+  
+  border-color: #53a8b6;
+  background-color:#e3f6f5;
+  height: 35px;
+  width: 250px;
+}
+.s_text{
+  color: #2d3173;
+}
+.btnr{
+  background-color:#e3f6f5;
+  border-radius: 30px;
+  border: none;
+  width: 55px;
+  height: 50px;
+}
+.ct{
+  color: #090f55;
+  font-size: xx-large;
+}
+.inp{
+  left: 40%;
+}
